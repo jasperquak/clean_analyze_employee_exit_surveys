@@ -5,3 +5,8 @@
 This is a project that I did while learning Data Analytics in Python with [DataQuest](https://www.dataquest.io/)
 
 To see it, simply click the .ipynb file above.
+
+You may, however, get to see "Sorry, something went wrong. Reload?"
+In that case, go to:
+https://nbviewer.jupyter.org/
+and copy-paste the entire URL from the address bar in your browser.
