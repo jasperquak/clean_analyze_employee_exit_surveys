@@ -1,6 +1,7 @@
-# clean-analyze-employee-exit-surveys
+# Clean and analyze employee exit surveys
 
-> TO DO: add brief project description; first try out whether this works in the first place
+> TO DO: add a brief project description
+> TO DO: add comment about the data 
 
 This is a 'guided project' that I did while learning Data Analytics in Python with [DataQuest](https://www.dataquest.io/).
 
