@@ -1,12 +1,13 @@
 # clean-analyze-employee-exit-surveys
 
-> TO DO: improve description; first try out whether this works in the first place
+> TO DO: add brief project description; first try out whether this works in the first place
 
-This is a project that I did while learning Data Analytics in Python with [DataQuest](https://www.dataquest.io/)
+This is a 'guided project' that I did while learning Data Analytics in Python with [DataQuest](https://www.dataquest.io/).
 
-To see it, simply click the .ipynb file above.
+To see the result, simply click the .ipynb file above.
 
 You may, however, get to see "Sorry, something went wrong. Reload?"
-In that case, go to:
-https://nbviewer.jupyter.org/
-and copy-paste the entire URL from the address bar in your browser.
+In that case:
+- copy the URL from the address bar in your browser
+- go to https://nbviewer.jupyter.org/
+- paste the URL 
